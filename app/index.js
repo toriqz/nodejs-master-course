@@ -109,7 +109,7 @@ handlers.ping = function(data, callback) {
 
 // Hello handler
 handlers.hello = function(data, callback) {
-  callback(200, {'message' : 'Hello World!'});
+  callback(200, {'message' : 'Hello World!!!'});
 };
 
 // Not found handler
